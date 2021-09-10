@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Controls</string>
+    <string name="nh_p_h_t_n">Nhập họ tên</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="facebook">Facebook</string>
+    <string name="ng_nh_p">đăng nhập</string>
+    <string name="m_t_kh_u">mật khẩu</string>
+</resources>
